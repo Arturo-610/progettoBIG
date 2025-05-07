@@ -5,5 +5,4 @@ forse
 dai
 eccoci, qua
 
-DEPERFORZAAAAAAA
 
